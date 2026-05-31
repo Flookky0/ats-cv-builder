@@ -1,133 +1,89 @@
-# ATS CV Builder v2
+# ATS CV Builder
 
-An advanced AI-powered skill for generating, reviewing, and optimizing professional resumes (CVs), resumes, cover letters, motivation letters, and recommendation-letter guidance.
+A custom Claude AI skill designed to generate, review, and optimize professional resumes, academic CVs, cover letters, motivation letters, and application documents.
 
-This skill is designed around best practices extracted from academic and professional career resources, including university career services guides, graduate admissions writing frameworks, and successful real-world CV examples.
+This skill was developed by Floky and is intended for use within Claude AI workflows.
 
-## Features
+## Overview
 
-### Resume & CV Generation
+ATS CV Builder is a specialized Claude AI skill that helps users create competitive application documents based on modern recruiting practices, academic application standards, and ATS (Applicant Tracking System) principles.
 
-* Creates ATS-friendly resumes and CVs.
-* Supports both academic CVs and industry resumes.
-* Adapts content to the target role, industry, and country.
-* Highlights measurable achievements and transferable skills.
-* Uses action-oriented language and accomplishment-based bullet points.
-* Produces clean, recruiter-friendly structures.
+The skill supports both academic and industry-oriented applications and adapts its output to the target audience and opportunity.
 
-### Academic CV Support
+## Core Capabilities
 
-Includes dedicated sections for:
+### Resume Generation
 
-* Education
-* Research Experience
-* Teaching Experience
+* ATS-friendly resumes
+* Industry-focused resumes
+* Achievement-oriented writing
+* Keyword optimization
+* Role-specific customization
+
+### Academic CV Generation
+
+* Research experience
 * Publications
 * Conferences
-* Awards & Honors
-* Grants & Fellowships
-* Professional Memberships
-* Technical Skills
+* Teaching experience
+* Awards and honors
+* Fellowships and grants
 
-### Cover Letter & Motivation Letter Writing
+### Application Documents
 
-Generates tailored:
+* Cover letters
+* Motivation letters
+* Statements of purpose
+* Scholarship applications
+* Graduate admission documents
 
-* Cover Letters
-* Motivation Letters
-* Statement of Purpose (SOP)
-* Graduate School Application Letters
-* Scholarship Application Letters
+### Review & Optimization
 
-Each document is customized according to:
-
-* Target institution
-* Job description
-* Academic program
-* Research interests
-* Applicant background
-
-### ATS Optimization
-
-* Extracts and prioritizes relevant keywords.
-* Aligns documents with job descriptions.
-* Improves compatibility with Applicant Tracking Systems (ATS).
-* Removes weak or generic wording.
-* Enhances recruiter readability.
-
-### Resume Review & Audit
-
-Provides:
-
-* Structure analysis
-* Content evaluation
-* Keyword coverage review
-* Achievement assessment
-* ATS compatibility review
-* Formatting recommendations
-
-### Recommendation Letter Guidance
-
-Supports:
-
-* Requesting recommendation letters
-* Preparing recommender packages
-* Structuring strong academic references
-* Graduate admission recommendation strategies
+* Resume audits
+* ATS compatibility analysis
+* Content improvement suggestions
+* Structure and formatting recommendations
 
 ## Design Principles
 
-This skill follows several core principles:
+The skill follows several principles:
 
-1. Audience-first writing.
-2. Evidence-based achievements.
-3. Clarity over decoration.
-4. Tailored applications instead of generic templates.
-5. Academic and industry distinctions.
-6. ATS compatibility without keyword stuffing.
-7. Professional and internationally accepted formatting.
-
-## Output Standards
-
-### Industry Resume
-
-* Typically 1–2 pages.
-* Focus on impact and transferable skills.
-* Prioritize professional experience.
-
-### Academic CV
-
-* Length based on academic achievements.
-* Includes publications, teaching, research, and academic service.
-* Suitable for graduate school, research, and academic positions.
-
-### Cover Letter
-
-* Concise and targeted.
-* Directly connects applicant qualifications with organizational needs.
-* Demonstrates motivation and fit.
-
-## References Used During Development
-
-The methodology behind this skill was informed by:
-
-* Harvard University Office of Career Services Resume & Cover Letter Guides.
-* Graduate Admissions Essays (Donald Asher, 4th Edition).
-* Academic CV examples from successful graduate and research applicants.
-* Professional resume-writing best practices.
-* ATS optimization principles used in modern recruitment systems.
+* Audience-first writing
+* Achievement-based descriptions
+* Clear and professional formatting
+* ATS compatibility
+* Academic and professional distinction
+* Tailored applications instead of generic templates
 
 ## Intended Users
 
-* Undergraduate students
+* Students
 * Graduate applicants
-* Scholarship applicants
 * Researchers
 * PhD candidates
+* Scholarship applicants
 * Academic professionals
-* Industry job seekers
+* Job seekers
 * Career changers
 
-## Goal
+## File Included
 
-To help applicants produce clear, credible, ATS-friendly, and highly competitive application documents that accurately communicate their qualifications, achievements, and potential.
+```text
+ats-cv-builder-v2.skill
+```
+
+## References
+
+The skill was developed using publicly available career development resources, resume-writing best practices, academic application frameworks, and professional document standards.
+
+## Disclaimer
+
+This repository contains a custom Claude AI skill configuration and supporting documentation.
+
+It is not an official product of Anthropic, Claude AI, Harvard University, or any other referenced institution.
+
+## Author
+
+Floky
+
+GitHub: https://github.com/Flookky0
