@@ -2,7 +2,7 @@
 
 ATS CV Builder is a custom Claude AI skill designed to generate, review, and optimize professional career documents, including ATS-friendly resumes, academic CVs, cover letters, motivation letters, networking messages, and application materials.
 
-Developed by Floky.
+Developed by Flookky0.
 
 ---
 
