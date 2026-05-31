@@ -1,89 +1,177 @@
-# ATS CV Builder
+# ATS CV Builder for Claude AI
 
-A custom Claude AI skill designed to generate, review, and optimize professional resumes, academic CVs, cover letters, motivation letters, and application documents.
+ATS CV Builder is a custom Claude AI skill designed to generate, review, and optimize professional career documents, including ATS-friendly resumes, academic CVs, cover letters, motivation letters, networking messages, and application materials.
 
-This skill was developed by Floky and is intended for use within Claude AI workflows.
+Developed by Floky.
+
+---
 
 ## Overview
 
-ATS CV Builder is a specialized Claude AI skill that helps users create competitive application documents based on modern recruiting practices, academic application standards, and ATS (Applicant Tracking System) principles.
+ATS CV Builder transforms user information into professional career documents optimized for modern recruitment systems, academic admissions, scholarships, and professional networking opportunities.
 
-The skill supports both academic and industry-oriented applications and adapts its output to the target audience and opportunity.
+The skill supports both academic and industry-oriented workflows and adapts outputs according to the target audience, institution, academic program, scholarship, or job opportunity.
+
+---
 
 ## Core Capabilities
 
 ### Resume Generation
 
-* ATS-friendly resumes
-* Industry-focused resumes
-* Achievement-oriented writing
-* Keyword optimization
-* Role-specific customization
+* ATS-friendly resume creation
+* Industry-focused resume writing
+* Achievement-oriented content development
+* Job-specific keyword optimization
+* Tailored application documents
 
 ### Academic CV Generation
 
+* Education and academic background
 * Research experience
-* Publications
-* Conferences
 * Teaching experience
+* Publications
+* Conferences and presentations
 * Awards and honors
-* Fellowships and grants
+* Grants and fellowships
+* Academic achievements
 
 ### Application Documents
 
 * Cover letters
 * Motivation letters
 * Statements of purpose
-* Scholarship applications
-* Graduate admission documents
+* Scholarship application documents
+* Graduate school application materials
+* Professional application letters
 
-### Review & Optimization
+### Professional Networking
 
-* Resume audits
+* Interview thank-you notes
+* Informational interview requests
+* Networking outreach messages
+* Professional follow-up communications
+
+### Review and Optimization
+
+* Resume review
+* CV review
 * ATS compatibility analysis
-* Content improvement suggestions
-* Structure and formatting recommendations
+* Content improvement recommendations
+* Structure optimization
+* Formatting recommendations
 
-## Design Principles
+---
 
-The skill follows several principles:
+## Key Principles
+
+The skill follows several core principles:
 
 * Audience-first writing
 * Achievement-based descriptions
-* Clear and professional formatting
 * ATS compatibility
-* Academic and professional distinction
-* Tailored applications instead of generic templates
+* Professional formatting standards
+* Academic and industry distinction
+* Personalized applications instead of generic templates
+* Clarity, relevance, and credibility
+
+---
+
+## Workflow
+
+```text
+User Information
+        ↓
+ ATS CV Builder
+        ↓
+Document Generation
+        ↓
+ ATS Optimization
+        ↓
+Professional Application Documents
+```
+
+---
+
+## Usage
+
+### Step 1
+
+Download the ATS CV Builder skill file from this repository.
+
+### Step 2
+
+Import the skill into Claude AI.
+
+### Step 3
+
+Provide your professional, academic, or application-related information.
+
+### Step 4
+
+Generate optimized documents such as:
+
+* Academic CVs
+* Professional resumes
+* Cover letters
+* Motivation letters
+* Statements of purpose
+* Scholarship applications
+* Networking messages
+* Interview follow-up communications
+
+---
 
 ## Intended Users
 
 * Students
 * Graduate applicants
+* Scholarship applicants
 * Researchers
 * PhD candidates
-* Scholarship applicants
 * Academic professionals
 * Job seekers
 * Career changers
+* Professionals seeking career advancement
 
-## File Included
+---
 
-```text
-ats-cv-builder-v2.skill
-```
+## Included Files
+
+* ATS CV Builder Skill Configuration
+* README.md
+* LICENSE
+
+---
 
 ## References
 
-The skill was developed using publicly available career development resources, resume-writing best practices, academic application frameworks, and professional document standards.
+The methodology behind this skill was informed by publicly available career development resources, academic application frameworks, resume-writing best practices, and professional document standards.
+
+These references were used for research and educational purposes during the development process.
+
+---
 
 ## Disclaimer
 
-This repository contains a custom Claude AI skill configuration and supporting documentation.
+ATS CV Builder is an independent custom Claude AI skill developed by Floky.
 
-It is not an official product of Anthropic, Claude AI, Harvard University, or any other referenced institution.
+This project is not affiliated with, endorsed by, sponsored by, or officially associated with Anthropic, Claude AI, Harvard University, or any other referenced institution.
+
+Any external resources referenced during development remain the property of their respective owners.
+
+---
+
+## License
+
+This repository is distributed under the custom license provided in the LICENSE file.
+
+Please review the LICENSE file before using, modifying, redistributing, or incorporating any part of this project into other works.
+
+---
 
 ## Author
 
 Floky
 
 GitHub: https://github.com/Flookky0
+
