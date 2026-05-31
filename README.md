@@ -171,7 +171,7 @@ Please review the LICENSE file before using, modifying, redistributing, or incor
 
 ## Author
 
-Floky
+Flookky0
 
 GitHub: https://github.com/Flookky0
 
